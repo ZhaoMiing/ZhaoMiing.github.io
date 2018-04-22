@@ -1,1 +1,1 @@
-DON'T README
+Copyright Zuc. All Rights Reserved.
